@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/sz2/HuaWei/3090/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++-7   -I/home/sz2/HuaWei/3090/in -I/home/sz2/HuaWei/3090/CodeCraft  -g   -o CMakeFiles/3090.dir/main.cpp.o -c /home/sz2/HuaWei/3090/main.cpp",
+  "file": "/home/sz2/HuaWei/3090/main.cpp"
+},
+{
+  "directory": "/home/sz2/HuaWei/3090/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++-7   -I/home/sz2/HuaWei/3090/in -I/home/sz2/HuaWei/3090/CodeCraft  -g   -o CMakeFiles/3090.dir/in.cpp.o -c /home/sz2/HuaWei/3090/in.cpp",
+  "file": "/home/sz2/HuaWei/3090/in.cpp"
+},
+{
+  "directory": "/home/sz2/HuaWei/3090/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++-7   -I/home/sz2/HuaWei/3090/in -I/home/sz2/HuaWei/3090/CodeCraft  -g   -o CMakeFiles/3090.dir/CodeCraft.cpp.o -c /home/sz2/HuaWei/3090/CodeCraft.cpp",
+  "file": "/home/sz2/HuaWei/3090/CodeCraft.cpp"
+}
+]
